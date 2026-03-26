@@ -43,8 +43,8 @@ export default function FooterSection() {
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-3 pt-8">
           <p className="font-inter text-brown-200/50 text-xs">{f.rights}</p>
-          <a href="mailto:marcus@marcussourdough.com" className="font-inter text-brown-200/60 hover:text-wheat-200 text-xs transition-colors">
-            marcus@marcussourdough.com
+          <a href="mailto:lachlan@algarvebreadco.com" className="font-inter text-brown-200/60 hover:text-wheat-200 text-xs transition-colors">
+            lachlan@algarvebreadco.com
           </a>
         </div>
       </div>

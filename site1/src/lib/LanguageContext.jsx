@@ -21,12 +21,12 @@ export const translations = {
     },
     about: {
       eyebrow: "Meet the Baker",
-      headline1: "Hi, I'm Marcus.",
+      headline1: "Hi, I'm Lachlan.",
       headline2: "I Bake Because I Care.",
       badge: '"Baking since 2015"',
       p1: 'I grew up watching my grandmother pull golden loaves from a wood-fired oven in her kitchen. That smell — the tang, the warmth — never left me. Ten years ago, I started my own starter and never looked back.',
       p2: 'Every loaf I bake is made with <strong>locally milled flour, filtered water, and a decade-old starter</strong> I\'ve been feeding every single day. No preservatives. No shortcuts. Just time, tradition, and a whole lot of patience.',
-      p3: "I bake out of my home kitchen in the Algarve, and I sell every Saturday at the Farmers Market because I believe good bread deserves to be shared with the people who live nearby. Neighbors feeding neighbors — that's what it's all about.",
+      p3: "I bake out of my home kitchen in Lagos, and I sell every Saturday at the market because I believe good bread deserves to be shared with the people who live nearby. Neighbours feeding neighbours — that's what it's all about.",
       stats: [
         { number: "10+", label: "Years Baking" },
         { number: "12", label: "Bread Varieties" },
@@ -71,12 +71,12 @@ export const translations = {
     findMe: {
       eyebrow: "Come Say Hello",
       headline: "Where to Find Me",
-      marketName: "Lehi Farmers Market",
+      marketName: "Lagos Farmers Market",
       marketSub: "Every Saturday",
       marketTime: "⏰ 8:00 AM – 1:00 PM",
       marketDesc: "Look for the hand-painted wooden sign and the smell of warm bread. I'll be there every week, rain or shine, with a fresh basket.",
       pills: [
-        { icon: "📍", text: "Lehi Main Street" },
+        { icon: "📍", text: "Lagos, Portugal" },
         { icon: "🌤️", text: "Rain or Shine" },
         { icon: "🥖", text: "Limited Quantities" },
         { icon: "💳", text: "Cash & Card" },
@@ -91,9 +91,9 @@ export const translations = {
       followDesc: "I post baking updates, process videos, and the weekly lineup every Friday evening. Don't miss a loaf.",
     },
     footer: {
-      brand: "🥖 Marcus' Sourdough",
-      location: "Handcrafted in the Algarve, Portugal",
-      rights: "© 2026 Marcus' Sourdough. All loaves reserved.",
+      brand: "🥖 Algarve Bread Co.",
+      location: "Handcrafted in Lagos, Algarve, Portugal",
+      rights: "© 2026 Algarve Bread Co. All loaves reserved.",
     },
   },
   pt: {
@@ -114,12 +114,12 @@ export const translations = {
     },
     about: {
       eyebrow: "Conhece o Padeiro",
-      headline1: "Olá, sou o Marcus.",
+      headline1: "Olá, sou o Lachlan.",
       headline2: "Faço Pão Porque Me Importo.",
       badge: '"A fazer pão desde 2015"',
       p1: 'Cresci a ver a minha avó tirar pães dourados do forno a lenha. Esse cheiro — a acidez, o calor — nunca me abandonou. Há dez anos, criei o meu próprio fermento e nunca mais olhei para trás.',
       p2: 'Cada pão que faço é preparado com <strong>farinha moída localmente, água filtrada e um fermento com mais de dez anos</strong> que alimento todos os dias. Sem conservantes. Sem atalhos. Apenas tempo, tradição e muita paciência.',
-      p3: "Faço o pão na minha cozinha no Algarve e vendo todos os sábados na feira porque acredito que o bom pão merece ser partilhado com quem vive perto. Vizinhos a alimentar vizinhos — é isso que importa.",
+      p3: "Faço o pão na minha cozinha em Lagos e vendo todos os sábados na feira porque acredito que o bom pão merece ser partilhado com quem vive perto. Vizinhos a alimentar vizinhos — é isso que importa.",
       stats: [
         { number: "10+", label: "Anos a Cozer" },
         { number: "12", label: "Variedades" },
@@ -164,12 +164,12 @@ export const translations = {
     findMe: {
       eyebrow: "Vem Dizer Olá",
       headline: "Onde Me Encontrar",
-      marketName: "Feira do Algarve",
+      marketName: "Mercado de Lagos",
       marketSub: "Todos os Sábados",
       marketTime: "⏰ 8:00 – 13:00",
       marketDesc: "Procura o sinal de madeira pintado à mão e o cheiro a pão quente. Estou lá todas as semanas, chuva ou sol, com um cesto fresco.",
       pills: [
-        { icon: "📍", text: "Rua Principal" },
+        { icon: "📍", text: "Lagos, Portugal" },
         { icon: "🌤️", text: "Chuva ou Sol" },
         { icon: "🥖", text: "Quantidades Limitadas" },
         { icon: "💳", text: "Dinheiro e Cartão" },
@@ -184,9 +184,9 @@ export const translations = {
       followDesc: "Posto actualizações de cozedura, vídeos do processo e o alinhamento semanal todas as sextas-feiras. Não percas um pão.",
     },
     footer: {
-      brand: "🥖 Sourdough do Marcus",
-      location: "Feito à mão no Algarve, Portugal",
-      rights: "© 2026 Sourdough do Marcus. Todos os pães reservados.",
+      brand: "🥖 Algarve Bread Co.",
+      location: "Feito à mão em Lagos, Algarve, Portugal",
+      rights: "© 2026 Algarve Bread Co. Todos os pães reservados.",
     },
   },
 };

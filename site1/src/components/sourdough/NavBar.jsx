@@ -31,7 +31,7 @@ export default function NavBar() {
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <a href="#" className="font-playfair text-xl text-cream-50 hover:text-wheat-200 transition-colors">
-          🥖 Marcus' Sourdough
+          🥖 Algarve Bread Co.
         </a>
 
         {/* Desktop Nav */}
