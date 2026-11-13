@@ -3,7 +3,7 @@ import os
 
 
 def create_app():
-    app = Flask(__name__, static_folder="static", static_url_path="")
+    app = Flask(__name__, static_folder="/app/static", static_url_path="")
 
     @app.route("/", defaults={"path": ""})
     @app.route("/<path:path>")

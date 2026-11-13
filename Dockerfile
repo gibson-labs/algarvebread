@@ -1,9 +1,9 @@
 # ---------- Build frontend ----------
 FROM node:20-alpine AS fe-build
 WORKDIR /frontend
-COPY frontend/package*.json ./
+COPY site1/package*.json ./
 RUN npm ci
-COPY frontend/ .
+COPY site1/ .
 RUN npm run build
 
 # ---------- Python runtime ----------
